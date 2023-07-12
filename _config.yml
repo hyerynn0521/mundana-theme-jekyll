@@ -34,6 +34,14 @@ authors:
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
+
+     hyerin:
+      name:           Hyerin
+      site:           https://www.github.com/hyerynn0521
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "Hello, I'm modifying this theme and updated the site. Hope you like it "
+      email:          hyerynn0521@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
